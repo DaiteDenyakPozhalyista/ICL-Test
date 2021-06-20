@@ -1,0 +1,6 @@
+C:\Users\gogle\OneDrive\Рабочий стол\ICL\C#\5\3.5\bin\Debug\3.5.exe.config
+C:\Users\gogle\OneDrive\Рабочий стол\ICL\C#\5\3.5\bin\Debug\3.5.exe
+C:\Users\gogle\OneDrive\Рабочий стол\ICL\C#\5\3.5\bin\Debug\3.5.pdb
+C:\Users\gogle\OneDrive\Рабочий стол\ICL\C#\5\3.5\obj\Debug\3.5.csprojAssemblyReference.cache
+C:\Users\gogle\OneDrive\Рабочий стол\ICL\C#\5\3.5\obj\Debug\3.5.exe
+C:\Users\gogle\OneDrive\Рабочий стол\ICL\C#\5\3.5\obj\Debug\3.5.pdb
